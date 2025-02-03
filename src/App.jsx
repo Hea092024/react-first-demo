@@ -1,3 +1,5 @@
+import MyComponent from "./MyComponent.jsx";
+
 function App() {
   const myName = "Hector"
   return <h1>{myName}</h1>
